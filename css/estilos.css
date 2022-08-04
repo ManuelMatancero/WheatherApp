@@ -1,0 +1,30 @@
+body{
+    padding: 100px;
+}
+#country{
+    margin-top: 50px;
+    text-align: center;
+}
+#consultar{
+   margin-top: 30px;
+}
+#contenedor{
+    background-color:cadetblue;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+
+#contenedor2{
+    margin: auto;
+    width: 50%;  
+    margin-top: 30px;
+}
+#cartel{
+ margin-top: 10px;
+ height: 300px;
+}
